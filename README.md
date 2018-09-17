@@ -1,2 +1,11 @@
 # Pre-lab: TipsCalculator
-GOAL: Create a calculator to compute the amount of tax to pay in three different percentages.
+
+This is a Tip Calculator application for iOS submitted as the pre-assignment requirement for CodePath.
+
+Time spent: 1.5hours
+
+Submitted by: Ching Ching Huang
+
+Completed:
+
+[x]: User can enter a bill amount, choose a tip percentage, and see the tip and total values.
